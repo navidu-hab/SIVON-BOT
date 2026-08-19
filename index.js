@@ -89,7 +89,7 @@ async function connectToWA() {
 
       const up = `SIVON-V1 connected ✅\n\nPREFIX: ${prefix}`;
       await sivon.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
-        image: { url: `https://i.postimg.cc/2yfHDJLw/Picsart-26-03-13-18-47-06-170.jpg` },
+        image: { url: `https://github.com/navidu-hab/SIVON-BOT/blob/main/images/WhatsApp%20Image%202026-08-18%20at%2011.44.08%20PM.jpeg?raw=true` },
         caption: up
       });
 
